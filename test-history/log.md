@@ -4,3 +4,4 @@
 2026-02-10 | juliabialy | design/figma | Kolory interfejsu
 2026-02-11 | GabrielaSolak | docs/scenariusz | Opis scenariusza
 2026-02-12 | juliabialy | docs/mechaniki | Mechaniki gry
+2026-02-13 | GabrielaSolak | feature/assety-dom | Dom bohaterki
