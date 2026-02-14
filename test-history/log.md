@@ -5,3 +5,4 @@
 2026-02-11 | GabrielaSolak | docs/scenariusz | Opis scenariusza
 2026-02-12 | juliabialy | docs/mechaniki | Mechaniki gry
 2026-02-13 | GabrielaSolak | feature/assety-dom | Dom bohaterki
+2026-02-14 | juliabialy | feature/assety-dom | Poprawa domu
