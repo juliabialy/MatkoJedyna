@@ -8,3 +8,4 @@
 2026-02-14 | juliabialy | feature/assety-dom | Poprawa domu
 2026-02-15 | GabrielaSolak | feature/assety-postacie | Postać bohaterki
 2026-02-16 | juliabialy | feature/assety-postacie | Poprawa modelu postaci
+2026-02-17 | GabrielaSolak | feature/assety-rodzina | Rodzina assety
