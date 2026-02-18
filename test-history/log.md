@@ -9,3 +9,4 @@
 2026-02-15 | GabrielaSolak | feature/assety-postacie | Postać bohaterki
 2026-02-16 | juliabialy | feature/assety-postacie | Poprawa modelu postaci
 2026-02-17 | GabrielaSolak | feature/assety-rodzina | Rodzina assety
+2026-02-18 | juliabialy | feature/assety-rodzina | Poprawa rodziny
