@@ -3,3 +3,4 @@ start
 2026-02-10 - Dodanie scenariusza
 2026-02-12 - Mechanika gry
 2026-02-15 - Assety domu
+2026-02-18 - Ruch postaci
