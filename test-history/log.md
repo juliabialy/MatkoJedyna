@@ -14,3 +14,4 @@
 2026-02-20 | juliabialy | feature/miasto | Rozbudowa miasta
 2026-02-21 | GabrielaSolak | fix/postacie | Poprawa skali
 2026-02-22 | juliabialy | fix/postacie | Naprawa modeli
+2026-03-01 | GabrielaSolak | feature/ruch | Ruch postaci
