@@ -6,3 +6,4 @@ start
 2026-02-18 - Ruch postaci
 2026-02-20 - Dialogi
 2026-02-25 - Interakcje
+2026-03-01 - Minigra sprzątanie
