@@ -15,3 +15,4 @@
 2026-02-21 | GabrielaSolak | fix/postacie | Poprawa skali
 2026-02-22 | juliabialy | fix/postacie | Naprawa modeli
 2026-03-01 | GabrielaSolak | feature/ruch | Ruch postaci
+2026-03-02 | juliabialy | feature/ruch | Sterowanie klawiaturą
