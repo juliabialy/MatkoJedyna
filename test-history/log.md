@@ -17,3 +17,4 @@
 2026-03-01 | GabrielaSolak | feature/ruch | Ruch postaci
 2026-03-02 | juliabialy | feature/ruch | Sterowanie klawiaturą
 2026-03-03 | GabrielaSolak | fix/ruch | Poprawa ruchu
+2026-03-04 | juliabialy | feature/dialogi | Dialogi system
