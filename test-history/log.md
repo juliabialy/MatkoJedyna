@@ -18,3 +18,4 @@
 2026-03-02 | juliabialy | feature/ruch | Sterowanie klawiaturą
 2026-03-03 | GabrielaSolak | fix/ruch | Poprawa ruchu
 2026-03-04 | juliabialy | feature/dialogi | Dialogi system
+2026-03-05 | GabrielaSolak | feature/dialogi | Rozmowy NPC
