@@ -21,3 +21,4 @@
 2026-03-05 | GabrielaSolak | feature/dialogi | Rozmowy NPC
 2026-03-06 | juliabialy | fix/dialogi | Naprawa tekstów
 2026-03-07 | GabrielaSolak | feature/interakcje | Drzwi interakcje
+2026-03-08 | juliabialy | feature/interakcje | Szafki interakcje
