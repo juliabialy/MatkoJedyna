@@ -23,3 +23,4 @@
 2026-03-07 | GabrielaSolak | feature/interakcje | Drzwi interakcje
 2026-03-08 | juliabialy | feature/interakcje | Szafki interakcje
 2026-03-09 | GabrielaSolak | fix/interakcje | Naprawa kliknięć
+2026-03-10 | juliabialy | feature/bariery | Bariery świata
