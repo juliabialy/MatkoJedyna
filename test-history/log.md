@@ -25,3 +25,4 @@
 2026-03-09 | GabrielaSolak | fix/interakcje | Naprawa kliknięć
 2026-03-10 | juliabialy | feature/bariery | Bariery świata
 2026-03-11 | GabrielaSolak | fix/podloga | Naprawa podłogi
+2026-03-12 | juliabialy | feature/minigra-sprzatanie | Minigra sprzątanie
