@@ -28,3 +28,4 @@
 2026-03-12 | juliabialy | feature/minigra-sprzatanie | Minigra sprzątanie
 2026-03-13 | GabrielaSolak | feature/minigra-sprzatanie | Napisy minigra
 2026-03-14 | juliabialy | feature/minigra-sprzatanie | Zabawki do szafki
+2026-03-15 | GabrielaSolak | fix/minigra-sprzatanie | Bugfix sprzątanie
