@@ -9,3 +9,4 @@ start
 2026-03-01 - Minigra sprzątanie
 2026-03-05 - Minigra pieczenie
 2026-03-10 - Minigra warzywa
+2026-03-15 - Bugfix v1
