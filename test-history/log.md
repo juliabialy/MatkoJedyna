@@ -31,3 +31,4 @@
 2026-03-15 | GabrielaSolak | fix/minigra-sprzatanie | Bugfix sprzątanie
 2026-03-16 | juliabialy | feature/minigra-sprzatanie | Timer minigry
 2026-03-17 | GabrielaSolak | feature/minigra-pieczenie | Minigra pieczenie
+2026-03-18 | juliabialy | feature/minigra-pieczenie | Czas pieczenia
