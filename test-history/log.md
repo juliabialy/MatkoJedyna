@@ -34,3 +34,4 @@
 2026-03-18 | juliabialy | feature/minigra-pieczenie | Czas pieczenia
 2026-03-19 | GabrielaSolak | fix/kuchnia | Naprawa kuchni
 2026-03-20 | juliabialy | fix/kuchnia | Szafki funkcjonalne
+2026-03-21 | GabrielaSolak | feature/dom | Rozbudowa domu
