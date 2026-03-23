@@ -36,3 +36,4 @@
 2026-03-20 | juliabialy | fix/kuchnia | Szafki funkcjonalne
 2026-03-21 | GabrielaSolak | feature/dom | Rozbudowa domu
 2026-03-22 | juliabialy | feature/minigra-warzywa | Minigra warzywa
+2026-03-23 | GabrielaSolak | feature/minigra-warzywa | Mechanika warzyw
