@@ -39,3 +39,4 @@
 2026-03-23 | GabrielaSolak | feature/minigra-warzywa | Mechanika warzyw
 2026-03-24 | juliabialy | fix/minigra-warzywa | Bugfix warzywa
 2026-03-25 | GabrielaSolak | fix/bugfix-v1 | Bugfix v1
+2026-03-26 | juliabialy | fix/bugfix-v1 | Poprawki drobne
