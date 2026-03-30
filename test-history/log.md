@@ -43,3 +43,4 @@
 2026-03-27 | GabrielaSolak | fix/bugfix-v1 | Poprawa dialogów
 2026-03-28 | juliabialy | fix/bugfix-v1 | Poprawa minigier
 2026-03-29 | GabrielaSolak | fix/kolizje | Kolizje miasta
+2026-03-30 | juliabialy | fix/kolizje | Wejścia budynki
