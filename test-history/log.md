@@ -45,3 +45,4 @@
 2026-03-29 | GabrielaSolak | fix/kolizje | Kolizje miasta
 2026-03-30 | juliabialy | fix/kolizje | Wejścia budynki
 2026-04-01 | GabrielaSolak | feature/ekran-startowy | Ekran startowy
+2026-04-02 | juliabialy | feature/ekran-startowy | Przycisk start
