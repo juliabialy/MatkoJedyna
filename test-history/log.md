@@ -46,3 +46,4 @@
 2026-03-30 | juliabialy | fix/kolizje | Wejścia budynki
 2026-04-01 | GabrielaSolak | feature/ekran-startowy | Ekran startowy
 2026-04-02 | juliabialy | feature/ekran-startowy | Przycisk start
+2026-04-03 | GabrielaSolak | fix/ekran-startowy | Poprawa UI
