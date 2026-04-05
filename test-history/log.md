@@ -48,3 +48,4 @@
 2026-04-02 | juliabialy | feature/ekran-startowy | Przycisk start
 2026-04-03 | GabrielaSolak | fix/ekran-startowy | Poprawa UI
 2026-04-04 | juliabialy | fix/ekran-startowy | Naprawa przejścia
+2026-04-05 | GabrielaSolak | fix/bugfix-v2 | Start bugfix v2
