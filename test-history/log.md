@@ -12,3 +12,4 @@ start
 2026-03-15 - Bugfix v1
 2026-03-20 - Bugfix v2
 2026-04-01 - Ekran startowy
+2026-04-13 - Poprawki końcowe
