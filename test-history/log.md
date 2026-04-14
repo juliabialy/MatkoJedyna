@@ -50,3 +50,4 @@
 2026-04-04 | juliabialy | fix/ekran-startowy | Naprawa przejścia
 2026-04-05 | GabrielaSolak | fix/bugfix-v2 | Start bugfix v2
 2026-04-13 | juliabialy | fix/bugfix-v2 | Poprawa pieczenia
+2026-04-14 | GabrielaSolak | fix/bugfix-v2 | Poprawa sprzątania
