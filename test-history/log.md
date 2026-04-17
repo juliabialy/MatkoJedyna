@@ -53,3 +53,4 @@
 2026-04-14 | GabrielaSolak | fix/bugfix-v2 | Poprawa sprzątania
 2026-04-15 | juliabialy | fix/bugfix-v2 | Sceny przejścia
 2026-04-16 | GabrielaSolak | docs/podsumowanie | Podsumowanie funkcji
+2026-04-17 | juliabialy | docs/podsumowanie | Opis mechanik
