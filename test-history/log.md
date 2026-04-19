@@ -55,3 +55,4 @@
 2026-04-16 | GabrielaSolak | docs/podsumowanie | Podsumowanie funkcji
 2026-04-17 | juliabialy | docs/podsumowanie | Opis mechanik
 2026-04-18 | GabrielaSolak | fix/final | Finalne poprawki wydajności
+2026-04-19 | juliabialy | fix/final | Refaktoryzacja kodu minigier
