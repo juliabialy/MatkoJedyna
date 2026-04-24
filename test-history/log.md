@@ -60,3 +60,4 @@
 2026-04-21 | juliabialy | feature/rozwoj | Rozbudowa systemu interakcji
 2026-04-22 | GabrielaSolak | feature/rozwoj | Nowe elementy świata gry
 2026-04-23 | juliabialy | feature/rozwoj | Dalszy rozwój mechanik
+2026-04-24 | GabrielaSolak | feature/rozwoj | Aktualizacja i optymalizacja projektu
